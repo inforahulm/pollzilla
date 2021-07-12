@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/drixo-laravel.iml" filepath="$PROJECT_DIR$/.idea/drixo-laravel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../joint_mining/.idea/joint_mining.iml" filepath="$PROJECT_DIR$/../joint_mining/.idea/joint_mining.iml" />
+    </modules>
+  </component>
+</project>
